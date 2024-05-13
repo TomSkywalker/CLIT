@@ -1,8 +1,10 @@
-# CLIT
+# 𝗖·𝗟·𝗜·𝗧
 The Coalition for the Liberation of Itinerant Tree-Dwellers
 
-![CLIT-COMMANDER](https://github.com/TomSkywalker/CLIT/assets/109879398/734cd881-e5e8-4bab-9813-e43f1e151424)
+<br>
 
-<b>
+![clit-commander](https://github.com/TommyHyperTexter/CLIT/assets/109879398/a5e90417-6c2a-4636-89fb-07a4cf6480af)
 
-![CLIT](https://github.com/TomSkywalker/CLIT/assets/109879398/8afe1412-df09-4745-807b-f69d2fe40bd7)
+<br>
+
+![clit-news](https://github.com/TommyHyperTexter/CLIT/assets/109879398/0d1d1e80-2d99-4361-a80e-8d7ad4445a51)
